@@ -1,4 +1,4 @@
-# Character Controller in Godot 4.4  
+# Player Controller in Godot 4.4  
 
 A modular 3D movement framework built with the Godot Engine and GDScript.  
 
