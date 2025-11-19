@@ -1,7 +1,8 @@
-# A character controller made in Godot 4.4
-This is a modular 3D movement base using Godot Engine and GDscript.
+# Character Controller in Godot 4.4  
 
-# Features
-- WASD Movement
-- Easy to implement and use since it is all stored in the Player.tscn
-- Camera Movement
+A modular 3D movement framework built with the Godot Engine and GDScript.  
+
+## Features  
+- **WASD Movement**  
+- **Simple Integration** – fully contained within `Player.tscn` for ease of use  
+- **Camera Control**  
